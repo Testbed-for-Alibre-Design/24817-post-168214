@@ -1,0 +1,12 @@
+# File produced by TechSoft3D HOOPS Exchange v23.0.10
+
+newmtl Color_3
+Kd 0.88235295 0.88235295 0.88235295
+Ka 0.2 0.2 0.2
+illum 1
+
+newmtl Color_0
+Kd 0.30980393 0.30980393 0.30980393
+Ka 0.2 0.2 0.2
+illum 1
+
